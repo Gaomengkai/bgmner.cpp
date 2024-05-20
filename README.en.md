@@ -1,5 +1,7 @@
 # BGMNER C++ Inference
 
+[en](README.en.md) | [中文](README.md)
+
 ## Abstract
 
 This project is a part of github.com/Gaomengkai/bgmner,

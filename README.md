@@ -1,5 +1,8 @@
 # BGMNER C++ 推理
 
+[en](README.en.md) | [中文](README.md)
+
+
 ## 摘要
 
 这个项目是 github.com/Gaomengkai/bgmner 的一部分，
